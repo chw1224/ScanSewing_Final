@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/link.png</file>
+        <file>images/stop.png</file>
+        <file>images/zero.png</file>
+        <file>images/foot.png</file>
+        <file>images/frame.png</file>
+        <file>images/led.png</file>
+        <file>images/down.png</file>
+        <file>images/left.png</file>
+        <file>images/right.png</file>
+        <file>images/up.png</file>
+        <file>images/zhome.png</file>
+        <file>images/move.png</file>
+        <file>images/calibration.png</file>
+        <file>images/current_pos.png</file>
+        <file>images/re-detection.png</file>
+        <file>images/restart.png</file>
+        <file>images/seamline.png</file>
+        <file>images/set.png</file>
+        <file>images/topstitch.png</file>
+        <file>images/icon.png</file>
+    </qresource>
+</RCC>
