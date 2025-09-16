@@ -1,0 +1,16 @@
+;Log created by PMAC Win32 Driver from file: C:\catkin_ws\src\ScanSewing\scan_sewing_ssm\cmdline\textboxbuffer.txt
+;
+000001:            Processing Macro File: C:\catkin_ws\src\ScanSewing\scan_sewing_ssm\cmdline\textboxbuffer.txt
+000002:            PMAC2 TURBO found
+000003:            Total Lines: 14
+000004:            Compiling for PLCC: C:\catkin_ws\src\ScanSewing\scan_sewing_ssm\cmdline\textboxbuffer.PMA = C:\catkin_ws\src\ScanSewing\scan_sewing_ssm\cmdline\textboxbuffer.56K
+000005:            PLCC Compiling PMAC file: C:\catkin_ws\src\ScanSewing\scan_sewing_ssm\cmdline\textboxbuffer.PMA
+000006:            Success in Compiling to output file: C:\catkin_ws\src\ScanSewing\scan_sewing_ssm\cmdline\textboxbuffer.56K
+000007:            No PLCC(s) were compiled
+000008:            Downloading file: C:\catkin_ws\src\ScanSewing\scan_sewing_ssm\cmdline\textboxbuffer.56K
+000009:            Download Complete!!
+000010:            Downloaded 19 lines in 11 msecs
+000011:            Writing MAP file: C:\catkin_ws\src\ScanSewing\scan_sewing_ssm\cmdline\textboxbuffer.MAP
+000012:            Writing macro dictionary table: C:\catkin_ws\src\ScanSewing\scan_sewing_ssm\cmdline\textboxbuffer.TBL
+000013:            Total Warnings: 0
+000014:            Total Errors: 0

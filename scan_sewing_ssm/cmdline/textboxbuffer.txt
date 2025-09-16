@@ -1,0 +1,14 @@
+open prog1 clear
+P99=1
+TA(1)
+TS(0)
+F(P10)
+ABS
+LINEAR
+DWELL(1000)
+X620.000 Y0.000
+dwell0
+m3
+DWELL(1000)
+P99=0
+close
