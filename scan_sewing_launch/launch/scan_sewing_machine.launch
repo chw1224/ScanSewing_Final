@@ -1,0 +1,13 @@
+<launch>
+  <node name="scan_sewing_gui" pkg="scan_sewing_gui" type= "scan_sewing_gui" output="screen">
+  </node>
+  <node name="scan_sewing_vision" pkg="scan_sewing_vision" type= "vision_node.py" output="screen" required="true">
+  </node>
+  <node name="scan_sewing_pf" pkg="scan_sewing_pf" type= "scan_sewing_pf" output="screen">
+  </node>
+  <node name="scan_sewing_panel" pkg="rosserial_python" type= "serial_node.py" args="COM13" output="screen">
+	<param name="~baud" value="115200" />
+  </node>
+  <node name="scan_sewing_mini" pkg="scan_sewing_mini" type= "scan_sewing_mini" output="screen">
+  </node>
+</launch>

@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>scan_sewing_launch</name>
+  <version>0.0.0</version>
+  <description>The scan_sewing_launch package</description>
+
+  <maintainer email="chw@todo.todo">chw</maintainer>
+
+  <license>TODO</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <export>
+
+  </export>
+</package>
